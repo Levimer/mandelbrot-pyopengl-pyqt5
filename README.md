@@ -15,7 +15,7 @@ To install the dependencies for this project, follow these steps:
 ```bash
 # Clone the repository
 git clone https://github.com/Levimer/mandelbrot-pyopengl-pyqt5.git
-cd mandelbrot-explorer
+cd mandelbrot-pyopengl-pyqt5
 
 # Set up a virtual environment (optional but recommended)
 python -m venv venv
