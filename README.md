@@ -7,6 +7,7 @@ Mandelbrot set implementation using PyOpenGL and PyQt5
 - **Panning**: Click and drag to move around the fractal.
 - **Dynamic Iteration Adjustment**: Automatically adjusts the number of iterations based on the zoom level.
 - **Double Precision**: Utilizes doubles instead of floats for deeper zooming.
+- **Compatible with Wayland**: Project was built with Linux/Wayland compatibility in mind.
 
 ## Installation
 
