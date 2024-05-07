@@ -27,4 +27,7 @@ pip install -r requirements.txt
 
 ## Examples
 ![Sample Image](https://github.com/Levimer/mandelbrot-pyopengl-pyqt5/raw/main/screenshot1.png)
+![Sample Image](https://github.com/Levimer/mandelbrot-pyopengl-pyqt5/raw/main/screenshot2.png)
+![Sample Image](https://github.com/Levimer/mandelbrot-pyopengl-pyqt5/raw/main/screenshot3.png)
+![Sample Image](https://github.com/Levimer/mandelbrot-pyopengl-pyqt5/raw/main/screenshot4.png)
 
