@@ -6,14 +6,7 @@ Mandelbrot set implementation using PyOpenGL and PyQt5
 - **Interactive Zooming**: Use your mouse wheel to zoom in and out of the Mandelbrot set.
 - **Panning**: Click and drag to move around the fractal.
 - **Dynamic Iteration Adjustment**: Automatically adjusts the number of iterations based on the zoom level to enhance detail.
-- **Real-time Rendering**: Utilizes the GPU for real-time fractal rendering.
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-- Python 3.6 or higher
-- A compatible OpenGL driver and a GPU that supports at least OpenGL 4.3
-- Operating System: Windows, Linux, or macOS
+- **Double Precision**: Utilizes doubles instead of floats for enhanced precision.
 
 ## Installation
 
