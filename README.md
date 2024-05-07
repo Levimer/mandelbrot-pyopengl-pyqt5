@@ -23,3 +23,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 # Install the required packages
 pip install -r requirements.txt
+```
+
+## Examples
+
